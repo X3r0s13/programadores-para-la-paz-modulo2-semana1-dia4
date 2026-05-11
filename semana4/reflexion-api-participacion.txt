@@ -1,8 +1,8 @@
 Reflexión sobre API, participación y comunicación responsable – Módulo 2 Semana 1 Día 4
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: David Casanova
+Fecha: 11 de mayo del 2026
+Nombre de la rama: david_casanova
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -23,3 +23,13 @@ En tu respuesta menciona al menos tres de estas ideas:
 - moderación responsable
 
 Respuesta:
+
+Una plataforma comunitaria debe organizar, validar y responder la información con claridad porque esto 
+fortalece la participación ciudadana y mejora la confianza comunitaria. Cuando las propuestas son 
+revisadas con responsabilidad, se evita la desinformación y se promueve una convivencia digital más 
+segura y respetuosa. Además, utilizar lenguaje claro y no estigmatizante ayuda a que todas las personas 
+comprendan la información sin generar conflictos o confusiones. La moderación responsable también 
+permite mantener reglas editoriales adecuadas y garantizar transparencia en los contenidos publicados. 
+Guardar correctamente la información facilita la trazabilidad de las propuestas y permite conocer quién 
+envió cada iniciativa y cuándo fue registrada. Todo esto contribuye a construir una cultura de paz y una 
+comunidad más organizada y participativa.

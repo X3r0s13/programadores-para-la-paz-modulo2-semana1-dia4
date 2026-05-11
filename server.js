@@ -101,7 +101,7 @@ app.post("/api/propuestas", (req, res) => {
   guardarPropuestas(propuestas)
 
   res.status(201).json({
-    mensaje: "Gracias. Tu propuesta fue recibida, guardada y queda pendiente de revisión editorial responsable.",
+    mensaje: "Gracias por enviar tu propuesta. El contenido será revisado y verificado antes de ser aprobado para la comunidad.",
     propuesta: nuevaPropuesta
   })
 })
